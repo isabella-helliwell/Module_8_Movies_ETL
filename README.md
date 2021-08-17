@@ -7,6 +7,7 @@
   - Wikipedia data
   - Kaggle metadata
   - MovieLens rating data
+  
   These datas are used to perform some ETL processes, and adding the data to a PostgreSQL database
   
 # Resources
