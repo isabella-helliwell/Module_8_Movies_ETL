@@ -1,7 +1,7 @@
 # Module_8_Movies_ETL
 
 # Project Scope
-  This project is divided into 4 sections. In summary, we have created an autimated pipeline that takes in new data, performs some
+  This project is divided into 4 sections. In summary, we have created an automated pipeline that takes in new data, performs some
   appropiate transformations and clean the data and loads the data into exsisting tables.
   As input, we have 3 files:
   - Wikipedia data
